@@ -1,4 +1,4 @@
-function skilsMember() {
+function skillsMember() {
   return {
     name: 'member',
     type: 'object',
